@@ -324,14 +324,16 @@ background-color: rgb(200, 196, 95);
    </property>
    <property name="font">
     <font>
-     <family>Garamond</family>
-     <pointsize>9</pointsize>
-     <weight>75</weight>
-     <bold>true</bold>
+     <family>Cambria</family>
+     <pointsize>12</pointsize>
+     <weight>9</weight>
+     <italic>false</italic>
+     <bold>false</bold>
     </font>
    </property>
    <property name="styleSheet">
-    <string notr="true">background-color: rgb(200, 196, 95);
+    <string notr="true">font: 75 12pt &quot;Cambria&quot;;
+background-color: rgb(200, 196, 95);
 
 </string>
    </property>
@@ -386,7 +388,7 @@ font: 75 italic 20pt &quot;Times New Roman&quot;;
 </string>
    </property>
    <property name="text">
-    <string>  Pharmacy Data Scraper</string>
+    <string> Pharmacy Data Scraper</string>
    </property>
   </widget>
   <widget class="QComboBox" name="comboBox">

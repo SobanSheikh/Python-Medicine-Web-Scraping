@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="newPics">
+    <file>../../../Pictures/background2.jpeg</file>
     <file>../../../Pictures/new_background.jpeg</file>
     <file>../../../../Downloads/pexels-rovenimagescom-949587.jpg</file>
   </qresource>
