@@ -314,7 +314,7 @@ background-color: rgb(200, 196, 95);
     <rect>
      <x>500</x>
      <y>480</y>
-     <width>71</width>
+     <width>201</width>
      <height>20</height>
     </rect>
    </property>
@@ -334,7 +334,7 @@ background-color: rgb(200, 196, 95);
 </string>
    </property>
    <property name="text">
-    <string>10m 25s</string>
+    <string>0.00 seconds</string>
    </property>
   </widget>
   <widget class="QLabel" name="label_5">
@@ -448,188 +448,6 @@ font: 75 12pt &quot;Cambria&quot;;</string>
     <string> Select Algorithm :</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="Namewise">
-   <property name="geometry">
-    <rect>
-     <x>60</x>
-     <y>110</y>
-     <width>111</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <family>Cambria</family>
-     <pointsize>12</pointsize>
-     <weight>9</weight>
-     <italic>false</italic>
-     <bold>false</bold>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">font: 75 12pt &quot;Cambria&quot;;
-background-color: rgb(65, 126, 200);</string>
-   </property>
-   <property name="text">
-    <string>Name_wise</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="Pricewise">
-   <property name="geometry">
-    <rect>
-     <x>190</x>
-     <y>110</y>
-     <width>101</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <family>Cambria</family>
-     <pointsize>12</pointsize>
-     <weight>9</weight>
-     <italic>false</italic>
-     <bold>false</bold>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: rgb(65, 126, 200);
-font: 75 12pt &quot;Cambria&quot;;</string>
-   </property>
-   <property name="text">
-    <string>Price_wise</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="Formulawise">
-   <property name="geometry">
-    <rect>
-     <x>440</x>
-     <y>110</y>
-     <width>101</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <family>Cambria</family>
-     <pointsize>12</pointsize>
-     <weight>9</weight>
-     <italic>false</italic>
-     <bold>false</bold>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: rgb(65, 126, 200);
-font: 75 12pt &quot;Cambria&quot;;</string>
-   </property>
-   <property name="text">
-    <string>Formula_wise</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="Companywise">
-   <property name="geometry">
-    <rect>
-     <x>310</x>
-     <y>110</y>
-     <width>111</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <family>Cambria</family>
-     <pointsize>12</pointsize>
-     <weight>9</weight>
-     <italic>false</italic>
-     <bold>false</bold>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: rgb(65, 126, 200);
-font: 75 12pt &quot;Cambria&quot;;</string>
-   </property>
-   <property name="text">
-    <string>Company_wise</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="Dosewise">
-   <property name="geometry">
-    <rect>
-     <x>560</x>
-     <y>110</y>
-     <width>101</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <family>Cambria</family>
-     <pointsize>12</pointsize>
-     <weight>9</weight>
-     <italic>false</italic>
-     <bold>false</bold>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: rgb(65, 126, 200);
-font: 75 12pt &quot;Cambria&quot;;</string>
-   </property>
-   <property name="text">
-    <string>Dose_wise</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="Categorywise">
-   <property name="geometry">
-    <rect>
-     <x>670</x>
-     <y>110</y>
-     <width>101</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <family>Cambria</family>
-     <pointsize>12</pointsize>
-     <weight>9</weight>
-     <italic>false</italic>
-     <bold>false</bold>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: rgb(65, 126, 200);
-font: 75 12pt &quot;Cambria&quot;;</string>
-   </property>
-   <property name="text">
-    <string>Category_wise</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="Quantitywise">
-   <property name="geometry">
-    <rect>
-     <x>780</x>
-     <y>110</y>
-     <width>101</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <family>Cambria</family>
-     <pointsize>12</pointsize>
-     <weight>9</weight>
-     <italic>false</italic>
-     <bold>false</bold>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: rgb(65, 126, 200);
-font: 75 12pt &quot;Cambria&quot;;</string>
-   </property>
-   <property name="text">
-    <string>Quantity_wise</string>
-   </property>
-  </widget>
   <zorder>label_5</zorder>
   <zorder>progressBar</zorder>
   <zorder>datatable</zorder>
@@ -642,13 +460,6 @@ font: 75 12pt &quot;Cambria&quot;;</string>
   <zorder>label_4</zorder>
   <zorder>select_algorithm</zorder>
   <zorder>label_6</zorder>
-  <zorder>Namewise</zorder>
-  <zorder>Pricewise</zorder>
-  <zorder>Formulawise</zorder>
-  <zorder>Companywise</zorder>
-  <zorder>Dosewise</zorder>
-  <zorder>Categorywise</zorder>
-  <zorder>Quantitywise</zorder>
  </widget>
  <resources>
   <include location="pics.qrc"/>
